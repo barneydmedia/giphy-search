@@ -1,0 +1,12 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/bootstrap-darkly.min.css')
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+    include header.pug
+    div(class='container-fluid')
+      block content
+    include footer.pug
+    include scripts.pug
