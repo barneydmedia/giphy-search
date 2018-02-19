@@ -1,5 +1,4 @@
 # Giphy Search Frontend
----
 This was a fun interview exercise that I did for a company called WireWheel. The basic idea is that a user should be able to use the SPA to search for gifs through the Giphy API, this app does that and adds pagination. It also uses a custom Bootstrap theme for slick/responsive looks.
 
 ## Dev Info
